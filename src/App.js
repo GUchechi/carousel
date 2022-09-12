@@ -1,4 +1,6 @@
 import './App.css';
+import Carousel from 'react-elastic-carousel';
+
 
 function App() {
   return (
